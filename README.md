@@ -1,5 +1,8 @@
+# Flask-Dashboard-UI
+Creating a dashboard by flask framework and this project will focusing on User Interface (UI).
+
 # Google Play Store Analytics
-<img src="https://raw.githubusercontent.com/fafilia/capstone-UIFlask/master/full_capstone.png">
+<img src="https://github.com/ELITSZORD/Flask-Dashboard-UI/blob/main/cat_order.png">
 ## Introduction
 Projek ini dikembangkan sebagai salah satu capstone project dari Algoritma Academy Data Analytics Specialization. Deliverables yang diharapkan adalah Anda dapat membangun sebuah aplikasi web sederhana (dashboard) menggunakan framework Flask. Capstone ini akan fokus pada tampilan user interface Flask. 
 
